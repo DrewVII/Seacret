@@ -1,5 +1,3 @@
-![Logo de Sea-cret de la Mer](https://media.discordapp.net/attachments/1200518585949356064/1234622681412796457/seacret_de_la_mer.png?ex=66316779&is=663015f9&hm=d76ea399f94317e79be0a80b990b3024aa98ddb8791096cc04edfebdb52b7e33&=&format=webp&quality=lossless&width=669&height=676)
-
 # Sea-cret de la Mer
 
 Bienvenue sur **Sea-cret de la Mer**, votre jeu de gestion de restaurant.
@@ -19,7 +17,7 @@ En cas de questions ou de problèmes avec l'utilisation du jeu, n'hésitez pas �
 ## Auteurs
 
 - **CHEBALLAH Jawed**
-- **MAKUISA Andrew**
+- **Drew M**
 - **REY Timothé**
 
 ## But du Projet
